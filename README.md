@@ -1,10 +1,8 @@
 # Hello there, I'm Stanislav Garshnik a Web-Developer
 
-<p align="center">
-	<a href="https://twitter.com/Tokin_Grain"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://github.com/AdastroAgni"><img src="imgs/github.svg" alt="GitHub"></a>
-	<a href="https://ru.linkedin.com/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-</p>
+### Socials
+
+<p align="left"> <a href="https://www.github.com/AdastroAgni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Tokin_Grain" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 - 👋 Hi, I’m @AdastroAgni
 - 👀 I’m interested in ...
